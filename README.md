@@ -1,2 +1,2 @@
-# Microservices-Ocelot-API-Gateway
-Microservices API Gateway to unify Multiple Microservices
+# Microservices Ocelot API Gateway implementation in ASP.NET Core
+In a Microservices architecture there are lots of URL where request to the microservices is made. Therefore, API Gateway like Ocelot comes to be very handy. An API Gateway transforms the Incoming HTTP Request from the client and forward it to an appropriate Microservice. Ocelot has a JSON configuration file that states the upstream and downstream routes. Upstream Request is the Request that is made by the Client to the API Gateway while Downstream request is the request made by the API Gateway to the Microservice.
