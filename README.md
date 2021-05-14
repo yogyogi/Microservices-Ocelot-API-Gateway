@@ -1,7 +1,7 @@
 # Microservices Ocelot API Gateway implementation in ASP.NET Core
 In a Microservices architecture there are lots of URL where request to the microservices is made. Therefore, API Gateway like Ocelot comes to be very handy. An API Gateway transforms the Incoming HTTP Request from the client and forward it to an appropriate Microservice. Here I will be integration Ocelot API Gateway to enable 2 microservices to communicate with one another.
 
-Read the entire article here - https://www.hosting.work/aspnet-core-microservices-synchronous-communication/
+Read the entire article here - https://www.hosting.work/aspnet-core-microservices-api-gateway/
 
 # Tutorial Contents
 1. Building Ocelot API Gateway
