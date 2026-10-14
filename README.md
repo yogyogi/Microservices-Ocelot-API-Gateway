@@ -27,6 +27,8 @@ docker-compose up -d
 
 <img src="https://www.yogihosting.com/wp-content/uploads/2026/10/docker-compose-api-gateway.png" alt="Docker Compose API Gateway"  title="Docker Compose API Gateway">
 
+Note that you also have to run the 2 Microservices though the command `docker-compose up -d`
+
 ## Want to support me ?
 
 Your support of every $5 will be a great reward for me to carry on my work. Thank you!
