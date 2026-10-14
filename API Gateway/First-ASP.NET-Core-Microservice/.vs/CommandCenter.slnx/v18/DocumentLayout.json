@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\ccui\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\components\\pages\\orders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\ccui\\components\\pages\\editorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\components\\pages\\editorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\ccui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7A1FC6-17A7-FFBA-5D95-C8C03B236D2E}|CommandCenter\\CommandCenter.csproj|solutionrelative:commandcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\ccui\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|d:\\yogesh\\seo\\yogihosting\\new\\microservices api gateway\\api gateway\\first-asp.net-core-microservice\\ccui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C88692-126B-42E9-AF11-3A708F083CC5}|CCUI\\CCUI.csproj|solutionrelative:ccui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-04T12:24:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-10-04T13:20:22.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
+              "RelativeDocumentMoniker": "CommandCenter\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CommandCenter\\Program.cs",
+              "RelativeToolTip": "CommandCenter\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:15:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CCUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CCUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T12:48:09.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditOrders.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\EditOrders.razor",
+              "RelativeDocumentMoniker": "CCUI\\Components\\Pages\\EditOrders.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\EditOrders.razor",
+              "RelativeToolTip": "CCUI\\Components\\Pages\\EditOrders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T12:46:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.razor",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\Orders.razor",
+              "RelativeDocumentMoniker": "CCUI\\Components\\Pages\\Orders.razor",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Components\\Pages\\Orders.razor",
+              "RelativeToolTip": "CCUI\\Components\\Pages\\Orders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T12:46:20.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\OrderService.cs",
+              "RelativeDocumentMoniker": "CCUI\\OrderService.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\OrderService.cs",
+              "RelativeToolTip": "CCUI\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:43:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Program.cs",
+              "RelativeDocumentMoniker": "CCUI\\Program.cs",
+              "ToolTip": "D:\\Yogesh\\SEO\\Yogihosting\\new\\Microservices API Gateway\\API Gateway\\First-ASP.NET-Core-Microservice\\CCUI\\Program.cs",
+              "RelativeToolTip": "CCUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:42:48.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
